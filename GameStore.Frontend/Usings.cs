@@ -1,2 +1,2 @@
-﻿namespace GameStore.Frontend
-global using GameStore.Frontend.Components;
+﻿global using GameStore.Frontend.Components;
+namespace GameStore.Frontend { }
